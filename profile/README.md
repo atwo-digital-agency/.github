@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+At **Atwo**, we’re a team of two passionate developers — one front-end and one back-end — coming together to build high-performance, modern web applications. By **developing as two**, we deliver custom solutions that combine innovation and efficiency. From open-source projects to client collaborations, Atwo is committed to turning each idea into a unique and engaging web experience.
